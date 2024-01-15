@@ -11,7 +11,7 @@ for (let i = 1; i < arr.length; i++) {
   }
   return secondLargest;
 }
-// Example usage:
-const array = [5, 2, 10, 8, 3];
+
+const array = [10,6,3,56,7,8];
 const secondLargest = findSecondLargest(array);
-console.log("Second largest element:", secondLargest);
+
